@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloworld-aws-lambda-jvm.iml" filepath="$PROJECT_DIR$/.idea/modules/helloworld-aws-lambda-jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloworld-aws-lambda-jvm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/helloworld-aws-lambda-jvm_main.iml" group="helloworld-aws-lambda-jvm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloworld-aws-lambda-jvm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/helloworld-aws-lambda-jvm_test.iml" group="helloworld-aws-lambda-jvm" />
+    </modules>
+  </component>
+</project>
